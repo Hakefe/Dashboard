@@ -3,4 +3,4 @@ ipywidgets
 ipykernel
 numpy
 pandas
-matplotlib
+matplotlib>=3.9,<3.11
