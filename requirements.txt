@@ -1,5 +1,6 @@
-ipython
+voila
 ipywidgets
-matplotlib
+ipykernel
 numpy
 pandas
+matplotlib
