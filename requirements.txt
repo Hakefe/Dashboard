@@ -1,6 +1,5 @@
-voila
 ipywidgets
 ipykernel
 numpy
 pandas
-matplotlib>=3.9,<3.11
+matplotlib
